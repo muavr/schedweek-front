@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/muavr/schedweek-front/issues"
   },
-  "homepage": "https://github.com/muavr/schedweek-front#readme"
+  "homepage": "https://github.com/muavr/schedweek-front#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4"
+  }
 }
